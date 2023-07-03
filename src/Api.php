@@ -8,7 +8,7 @@ class Api
 {
     public function getRandomNumber(): int
     {
-        return random_int(0, 100);
+        return rand(0, 100);
     }
 
     public function getDate(): \DateTime
@@ -16,5 +16,8 @@ class Api
         return new \DateTime();
     }
 
-
+    public function getDateAsString(): string
+    {
+        return $this->getDate()->format('Y-m-d H:i:s');
+    }
 }
