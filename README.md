@@ -1,6 +1,6 @@
 # IIM TD2
 
-[![Last version](https://img.shields.io/packagist/v/AntoineBendafiSchulmann/iim-td2?maxAge=3600)](https://packagist.org/packages/AntoineBendafiSchulmann/iim-td2)
+[![Last version](https://img.shields.io/packagist/v/antoinebendafi/iim-td2?maxAge=3600)](https://packagist.org/packages/antoinebendafi/iim-td2)
 
 ## Installation
 
