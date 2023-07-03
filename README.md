@@ -18,6 +18,7 @@ composer install
  php vendor/bin/phpstan analyse src --level=max
 ```
 
+
 ```bash
 php vendor/bin/php-cs-fixer fix src --rules=@PSR12
 ```
